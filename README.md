@@ -1,5 +1,12 @@
-[Текст ссылки](https://example.com)
-[Ссылка с title](https://example.com "Всплывающая подсказка")
+Строчный код: `print("Hello World")`
 
-![Альтернативный текст](url-изображения.jpg)
-![Логотип](https://example.com/logo.png "Логотип сайта")
+Блок кода:
+```python
+def hello():
+    print("Hello World")
+    return True
+```
+
+```bash
+sudo apt update && sudo apt upgrade
+```
